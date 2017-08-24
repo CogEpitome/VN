@@ -1,0 +1,2 @@
+# VN
+Visual Novel project
